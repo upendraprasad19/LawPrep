@@ -1,0 +1,13 @@
+{
+  "name": "@lawprep/server",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "@lawprep/contracts": "*",
+    "@supabase/supabase-js": "2.118.0",
+    "server-only": "0.0.1"
+  }
+}

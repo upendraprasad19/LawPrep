@@ -1,0 +1,79 @@
+# Content correctness research — source register
+
+Research date: 31 October 2026. Active work; this register is not an approval to publish the collection. Detailed question text, hashes, comparisons and draft explanations remain in the ignored private review workspace.
+
+## Evidence standard
+
+An exam/year label or printed question number does not authenticate a question. Match the actual stem, all options, passage, programme, language and booklet/Question ID before applying an official key. Keep initial, revised and final keys distinct. Preserve historical context and artificial principles given in exam passages; identify current-law differences separately. Public access does not establish republication rights.
+
+## Strong primary sources retrieved
+
+| Source | What it establishes | Limits / action |
+| --- | --- | --- |
+| [Panjab 2024 final key, series A](https://exams.puchd.ac.in/includes/noticeboard/2024/20240716102736-finalkey2024.pdf) | Explicit final key. Primary reviewer re-fetched HTTP 200; SHA256 `80554568d8ef59013332ae78271022563e0eb1ae695b093a804bad504ce7250f`, identical to the local answer-key PDF. | Seven X entries; the 93 imported rows omit these printed numbers. Key-letter agreement by number is not proof of every transcribed stem. This is Panjab University, Chandigarh, not Patna BLET. |
+| [Panjab 2025 paper](https://exams.puchd.ac.in/includes/noticeboard/2025/20250629125050-ll.b-3y25-a.pdf), [initial key](https://exams.puchd.ac.in/includes/noticeboard/2025/20250629125144-answerkey.pdf), [7 July revision](https://exams.puchd.ac.in/includes/noticeboard/2025/20250707144256-crossobjections.pdf) | Revision changes Q30 to C, Q35 to B and Q36 to B; withdraws Q12/Q14/Q39/Q68. Primary reviewer read rendered revision and re-fetched it, SHA256 `1f565da7cf9d3b37deb7a7ebc9c2ec5c04ed78be695d8016722245d804ed8e83`. | Latest located objection response invites cross-objections; consolidated final-key status unresolved. Do not infer the 2024 all-credit rule for 2025 withdrawals. Proposed corrections remain separate from original intake. |
+| [Patna public programme catalogue](https://pupadm.samarth.edu.in/index.php/site/programme), Bachelor of Laws (Hons.)(3yrs), 2026 admission card | Primary reviewer retrieved public page and read specific card: BLET, two hours, 100 objective questions/100 marks, English/Hindi, no deduction for wrong/unanswered answers; General Science/GK/Current Affairs and possible contemporary legal issues. 30 marks qualify for consideration. | This is a cycle-specific baseline, not a detailed chapter syllabus or released paper. Department may change duration/subjects. Ten additional marks for qualifying Patna graduates concern admission ranking, not extra test questions. Application window is closed. |
+| [NTA 2024 paper](https://nta.ac.in/Download/ExamPaper/Paper_20240418110055.pdf) | Primary reviewer retrieved 80-page PDF, SHA256 `177e425e2f017e761716bc93be74c3c0b49766fe75f2c1fcf8f39c3fcbe2eaa8`; header 13 March 2024, shift 3, 105 minutes/300 marks. | Stems largely images. Imported 55-question label is not a verified Question-ID crosswalk. Do not map by ordinal. |
+| [NTA 2025 paper](https://nta.ac.in/Download/ExamPaper/Paper_20250719144744.pdf), [final key](https://nta.ac.in/Download/Notice/Notice_20250506192138.pdf) | Primary reviewer retrieved 110-page paper, SHA256 `6e03cda6ce2c00e4d9664d4768e502f5a7bc35cbbf11cc609f86a258f674be79`; header 25 March 2025, shift 2, 90 minutes/300 marks. Source lane recorded COQP11 key IDs and multiple accepted options. | English/Hindi alternative sections must not be counted as 150 questions to attempt. Option IDs in the key require exact mapping; source-lane metadata is not a review of every paper item. |
+| [NTA CUET-PG 2026 final-key index](https://exams.nta.nic.in/final-answer-keys-for-cuet-pg-2026/), [COQP11 key](https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/04/202604241539092146.pdf) | Official COQP11 key exists with different sitting/region sections. | Full official-host paper not established in this research. Domestic/international variants are not automatically distinct banks. Account for withdrawals and option-number versus option-ID formats. |
+| [CLAT 2027 UG syllabus](https://consortiumofnlus.ac.in/clat-2027/ug-syllabus.html) | Primary reviewer read: 120 questions/two hours, +1/−0.25, five subjects; English/contextual vocabulary, legal passage reasoning, numerical information using Class-10 operations. | Does not establish alleged grammar-topic frequency, fixed CUET topic weightings or guaranteed marks. No completed CLAT 2027 actual paper claimed. |
+
+## CLAT historical key dependencies
+
+The CLAT lane opened [2026 official booklets/provisional keys](https://clat2026.consortiumofnlus.ac.in/clat-2026/notifications/Provisional-answer-keys-and-Objection-notification.pdf), [16 December final notification](https://clat2026.consortiumofnlus.ac.in/clat-2026/notifications/CLAT2026-Final-Answer-Key.pdf), [February court/appeal notice](https://clat2026.consortiumofnlus.ac.in/clat-2026/notifications/AllahabadHighCourtNotification.pdf) and [May counselling postponement](https://clat2026.consortiumofnlus.ac.in/clat-2026/notifications/ug-4thList-postponement.pdf). Later court chronology needs authenticated resolution before current scoring certification; the February intermediate dual-answer direction must not silently become the current key.
+
+The [CLAT 2025 revised-final notice](https://clat2025.consortiumofnlus.ac.in/clat-2025/notifications/CLAT-2025-UG-Final-Answer-Key-Notification.pdf) and [2024 final notice](https://clat2024.consortiumofnlus.ac.in/clat-2024/notifications/CLAT2024-FinalAnswerKey-Notification.pdf) were discoverable in official indexed results, but archive retrieval timed out. Full revised-key/set crosswalk remains blocked. Historical 2022/2023 official links also remain unavailable. These are explicit source dependencies; they do not prevent carefully labeled reasoning drafts from the actual supplied passage.
+
+## Teaching and factual authorities
+
+- [Indian Contract Act, 1872](https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf): distinguish acceptance by performance and consideration exceptions from absolute shorthand. A supplied exam principle may intentionally differ from general law.
+- [NCRB official BNS text](https://www.ncrb.mha.gov.in/uploads/SankalanPortal/ChaptersBNS.html), sections 25–30: consent rules differ by context; section 26 concerns good-faith benefit without intention to cause death. A blanket prohibition covering every consent to grievous hurt needs correction.
+- [IEC units guide](https://styleguide.iec.ch/?docs=iec/typographic/units-and-symbols): decimal kB versus binary KiB. Explain older exam conventions without teaching an unqualified 1024-byte kilobyte identity.
+- [WTO on its UN relationship](https://www.wto.org/english/thewto_e/coher_e/wto_un_e.htm): WTO is not a UN specialized agency, despite its Geneva headquarters.
+- [President's Secretariat, Rajendra Prasad profile](https://presidentofindia.nic.in/dr-rajendra-prasad-served-profile): first presidential term began 26 January 1950. Separate this from independence in 1947.
+
+## Exam-route correction to check in product content
+
+The [University of Allahabad 2026 notice](https://www.allduniv.ac.in/upload/file_collection/PGExtension.pdf) explicitly uses PGAT for LLB/LLM and says CUET-PG 2026 is not applicable there. Legacy CUET backup-route advice therefore requires a cycle-specific correction. Do not extrapolate one university's COQP11 mapping to all universities or to the next cycle.
+
+## Remaining dependencies
+
+Question-level review and independent checks are ongoing. No existing verification flag, generated explanation or source-register entry confers editorial approval. Rights remain unestablished. Missing question context, incomplete scans, unresolved final keys and unsupported current-affairs claims require explicit item blockers rather than invented answers.
+
+## Source recovery and follow-up — 3 November
+
+Native English OCR made the NTA 2024 scan searchable; every proposed source repair was then checked against the actual page images and the institutional final-key reproduction. Twelve separate repair/withdrawal units link thirteen original records. Two imported article questions derive from one source item, requiring a merge rather than two authentic-PYQ scores. Missing conditions, changed years, matching columns and spelling were recovered. Repairs use adapted wording and stay separate from the malformed originals. Independent source-image/key review is recorded for all twelve; two retain factual-evidence limitations. The article exercise adds explicit context to remove an ambiguity present in the original.
+
+For legal-date review, the primary reviewer independently retrieved [Special Reference No. 1 of 2025, 2025 INSC 1333](https://api.sci.gov.in/supremecourt/2025/39157/39157_2025_1_1501_66169_Judgement_20-Nov-2025.pdf), SHA256 `e774a0ea7472732012dfb8210532d766095d1a42bcc78fa480bb71afaff9079b`, and read paragraphs 165.1–165.10 on PDF pages 108–110. Historical passage answers need separation from later limits on general judicial timelines and deemed assent, while acknowledging limited mandamus for prolonged inaction. This checks that opinion's stated holdings, not every later proceeding or every constitutional proposition.
+
+The [official AILET 2026 master booklets](https://2026.nationallawuniversitydelhi.in/notification/Master_Notification_with_APPENDIX-I,II,III_and_IV.pdf) and [final key](https://2026.nationallawuniversitydelhi.in/notification/Notification_Final_Master_Answer_Key.pdf) were retrieved and added to the candidate register. They remain list-only supplementary material; no question bank was imported or new exam route implemented.
+
+## Remediation source checks — 3 November
+
+Forty-three original evidence holds were resolved by actual source/option checks, including four withdrawal confirmations. Relevant sources include the [NCPCR POCSO guide](https://ncpcr.gov.in/public/uploads/1752039241686dff4951f88_an-easy-guide-for-implementation-of-pocso-act-2012.pdf) (rendered cover inspected), [contemporary first Yoga Day release](https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=122660), [Cornell Wex chattel entry](https://www.law.cornell.edu/wex/chattel), and the previously located official Panjab paper/response. Detailed per-item locators and source hashes remain in private ledgers. These source checks do not clear every factual assertion in an imported passage.
+
+The indexed [NTA exam-site copyright policy](https://exams.nta.nic.in/copyright-policy/) describes permission and attribution conditions with separate treatment for copyright material. No applicable permission for our corpus or embedded third-party passages was established. Bounded Consortium/Panjab official-domain searches also did not establish a reusable licence; that is a search limitation, not a claim that no policy exists. Source rights stay unknown. The private `reuse-and-key-checks.md` records remaining finality, crosswalk and permission dependencies.
+
+Forty-one original evidence holds remain, alongside original clarification/blocker findings. Separately rewritten practice versions are adaptations, including explicitly hypothetical rules where defective legal exposition was replaced; they are not newly authenticated official questions. No candidate bank or corrected content has been applied to Supabase or published.
+
+## Seven adapted-repair follow-up — 3 November
+
+The [actual UN resolution 60/251](https://documents.un.org/api/symbol/access?l=en&s=A/RES/60/251&t=pdf), with its 15 March 2006 adoption date and operative paragraph 1, supports the Council/Commission replacement wording. The [actual Collins idiom entry](https://www.collinsdictionary.com/us/dictionary/english/talk-nineteen-to-the-dozen) supports the revised speech idiom. Both were independently inspected.
+
+The [18 March 2021 HUD release](https://archives.hud.gov/news/2021/pr21-041.cfm) identifies the quoted homelessness estimate as a January 2020 single-night count. The [Wiley publisher entry](https://spssi.onlinelibrary.wiley.com/doi/10.1111/josi.12555) identifies Versey and Russell's study of lower-income Black women, its first online publication on 3 October 2022, and four narrative accounts. This checks metadata/abstract, not the full paper or the imported passage's fidelity. Four new private adapted versions use a dated synthesis and distinguish national counting from narrative evidence. The reviewer independently opened Wiley and read the bound HUD capture; HUD's independent live reopen timed out, so those four versions retain an explicit evidence-access limitation.
+
+Web-tool text captures are hashed as local extracted evidence, not falsely labelled remote response bytes. Direct HTTP empty/challenge responses are not factual verification. The UN PDF has an actual response-body hash. Original-source rights and authentic question/key approval remain unresolved.
+
+q794 is excluded from the next content batch because the retained full primary passage could not be checked. Expected NCERT history chapter and official CLAT source retrievals failed. No mineral-name substitution or official-withdrawal claim is made. Re-entry requires readable primary context and fresh independent review. This seven-item pass does not clear the 41 original evidence holds or the other original findings.
+
+## Priority teaching sources and reuse — 4 November
+
+Sixteen full CLAT/shared foundation lesson revisions were checked against the actual [CLAT 2027 syllabus](https://consortiumofnlus.ac.in/clat-2027/ug-syllabus.html), scoped grammar guidance, relevant legal text and internal derivations. New reading/reasoning explanations remove unsupported topic-frequency or performance promises. Worked numerical examples were recomputed using exact fractions and independently checked.
+
+Legal corrections use [Contract Act sections 2(h),7–11,25](https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf), [NCRB's BNS text](https://www.ncrb.mha.gov.in/uploads/SankalanPortal/ChaptersBNS.html) at sections25–28, the previously cached negligence authority and the [10 February 2025 natural-justice judgment](https://api.sci.gov.in/supremecourt/2023/2112/2112_2023_5_1501_59288_Judgement_10-Feb-2025.pdf), PDF pages19–23/paragraphs29–33. Sources support the limited distinctions actually taught; this is not full current-law or latest-amendment verification. The four legal lessons retain explicit source qualifications.
+
+The [Purdue agreement guide](https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html) supports only the cited agreement guidance. Tense/modifier qualifications and new examples received independent language review; unavailable Cambridge/Oxford body text was not treated as authenticated evidence. The grammar lesson retains that limitation.
+
+Actual NTA, Purdue and [CBSE main-site policy](https://www.cbse.gov.in/cbsenew/documents/WEBSITE_POLICY.pdf) text was inspected for reuse scope. CBSE results-site wording remained an indexed lead after502; it was not promoted into a textbook licence. The private source/reuse matrix distinguishes new lesson prose/examples from copying external handouts, questions, passages or images. No permission was obtained, licence granted or publisher contacted. Owner/source version review and asset-specific rights decisions remain separate from content reasoning acceptance.
+
+Independent review outcomes for this batch are11 reasoning accepts and5 accepts with evidence limitations. Full lesson text, all34 worked examples, specific qualifications and exact before/after payloads are in the private owner report. Raw imports, the original492 peer outcomes and earlier accepted versions remain unchanged.

@@ -1,0 +1,10 @@
+begin;
+create extension if not exists pgtap with schema extensions;
+set local search_path=public,extensions;
+select no_plan();
+select ok(not has_function_privilege('anon','public.rls_auto_enable()','EXECUTE'),'anon has no provider definer execution');
+select ok(not has_function_privilege('authenticated','public.rls_auto_enable()','EXECUTE'),'authenticated has no provider definer execution');
+create table public.provider_hardening_fixture(id integer primary key);
+select ok((select relrowsecurity from pg_class where oid='public.provider_hardening_fixture'::regclass),'provider event trigger still enables RLS');
+select * from finish();
+rollback;

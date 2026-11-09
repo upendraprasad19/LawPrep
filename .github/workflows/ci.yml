@@ -1,0 +1,33 @@
+name: Law Prep verification
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: verify-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7, verified 2026-10-24
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7, verified 2026-10-24
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: node node_modules/@playwright/test/cli.js install --with-deps chromium --only-shell
+      - run: npm run verify:milestone
+  required:
+    if: ${{ !cancelled() }}
+    needs: verify
+    runs-on: ubuntu-latest
+    steps:
+      - name: Applicable checks must actually succeed
+        env:
+          VERIFY_RESULT: ${{ needs.verify.result }}
+        run: test "$VERIFY_RESULT" = success

@@ -1,0 +1,13 @@
+{
+  "name": "@lawprep/contracts",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./exam": "./src/exam.ts",
+    "./api": "./src/api.ts"
+  },
+  "dependencies": {
+    "zod": "4.6.7"
+  }
+}

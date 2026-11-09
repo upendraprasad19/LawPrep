@@ -1,0 +1,46 @@
+{
+  "name": "law-prep",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "engines": {
+    "node": ">=24 <25",
+    "npm": ">=11 <12"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run build:learner && npm run dev --workspace=@lawprep/site",
+    "dev:learner": "npm run dev --workspace=@lawprep/learner",
+    "build:learner": "npm run build --workspace=@lawprep/learner && node scripts/stage-learner.ts",
+    "build": "npm run build:learner && npm run build --workspace=@lawprep/site",
+    "start": "npm run start --workspace=@lawprep/site",
+    "typecheck": "tsc --noEmit && tsc --noEmit -p apps/site/tsconfig.json",
+    "lint": "eslint .",
+    "test:process": "node --test --test-reporter=tap tests/process/*.test.mjs",
+    "test:unit": "vitest run",
+    "test:integration": "vitest run --config vitest.integration.config.ts",
+    "test:e2e": "playwright test",
+    "test": "npm run test:process && npm run test:unit && npm run test:integration",
+    "check:boundary": "node scripts/check-browser-boundary.ts",
+    "content:audit": "node scripts/inventory-content.ts",
+    "verify": "node scripts/verify.mjs",
+    "verify:milestone": "node scripts/verify.mjs --acceptance"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1",
+    "@types/node": "24.19.2",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@eslint/js": "10.0.1",
+    "@next/eslint-plugin-next": "16.4.3",
+    "eslint": "10.13.0",
+    "eslint-plugin-react-hooks": "7.1.1",
+    "globals": "17.13.0",
+    "typescript-eslint": "8.72.0",
+    "typescript": "6.0.2",
+    "vitest": "5.0.5"
+  }
+}

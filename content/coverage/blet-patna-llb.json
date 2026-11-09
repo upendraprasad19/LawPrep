@@ -1,0 +1,32 @@
+{
+  "examId": "blet-patna-llb",
+  "cycleId": null,
+  "status": "draft",
+  "completePreparation": false,
+  "checkedAt": "2026-10-24T01:38:19Z",
+  "sourceRefs": [
+    {
+      "id": "patna-admissions-2026",
+      "url": "https://pup.ac.in/AdmissionPortal2026.aspx",
+      "title": "Patna University admission portal 2026",
+      "publisher": "Patna University",
+      "checkedAt": "2026-10-24T01:38:19Z",
+      "rights": "unknown"
+    },
+    {
+      "id": "patna-llb-admission-notice-2026",
+      "url": "https://pup.ac.in/UploadFile/2026/Jun/12-Jun-2026/NoticeBoard/New%20Doc%2006-12-2026%2011.58.pdf",
+      "title": "LL.B.(H) admission notice",
+      "publisher": "Patna University",
+      "checkedAt": "2026-10-24T01:38:19Z",
+      "rights": "unknown"
+    }
+  ],
+  "rows": [],
+  "publishedAssets": [],
+  "blockers": [
+    "Current official entrance syllabus and marking/timing regulations not yet verified",
+    "Admission/results notices establish a programme, not its tested subjects",
+    "Legacy BLET topics and past papers require source review; do not substitute CLAT rules"
+  ]
+}

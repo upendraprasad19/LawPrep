@@ -1,0 +1,411 @@
+{
+  "examId": "clat-ug",
+  "cycleId": "clat-2027",
+  "status": "draft",
+  "completePreparation": false,
+  "checkedAt": "2026-10-24T01:38:19Z",
+  "sourceRefs": [
+    {
+      "id": "clat-2027-syllabus",
+      "url": "https://clat2027.consortiumofnlus.ac.in/clat-2027/ug-syllabus.html",
+      "title": "CLAT 2027 UG syllabus",
+      "publisher": "Consortium of NLUs",
+      "checkedAt": "2026-10-24T01:38:19Z",
+      "rights": "unknown"
+    }
+  ],
+  "policy": "These grouped teaching topics are an editorial decomposition, not official chapter weightings. Required values count deliverable sets, not sufficient practice volume or mastery evidence.",
+  "rows": [
+    {
+      "topicId": "clat-english-main",
+      "title": "Main point",
+      "objectives": [
+        "Identify central claims"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "clat-english-inference",
+      "title": "Inferences",
+      "objectives": [
+        "Draw supported conclusions"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "clat-english-compare",
+      "title": "Views and summaries",
+      "objectives": [
+        "Compare viewpoints concisely"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "clat-english-vocabulary",
+      "title": "Contextual vocabulary",
+      "objectives": [
+        "Interpret contextual meanings"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "clat-affairs-events",
+      "title": "Public events",
+      "objectives": [
+        "Connect significant developments"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "clat-affairs-culture",
+      "title": "Culture and history",
+      "objectives": [
+        "Explain continuing significance"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "clat-legal-rule",
+      "title": "Passage rules",
+      "objectives": [
+        "Infer supplied principles"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "clat-legal-apply",
+      "title": "Rule application",
+      "objectives": [
+        "Apply principles consistently"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "clat-legal-change",
+      "title": "Changed rules",
+      "objectives": [
+        "Reassess altered conditions"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "clat-logic-argument",
+      "title": "Argument structure",
+      "objectives": [
+        "Separate premises and conclusions"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "clat-logic-evaluate",
+      "title": "Argument evaluation",
+      "objectives": [
+        "Assess evidential strength"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "clat-logic-inference",
+      "title": "Logical implications",
+      "objectives": [
+        "Test supported inferences"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "clat-logic-relations",
+      "title": "Relationships",
+      "objectives": [
+        "Distinguish analogy and contradiction"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "clat-quant-data",
+      "title": "Numerical information",
+      "objectives": [
+        "Extract relevant quantities"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "clat-quant-operations",
+      "title": "Mathematical application",
+      "objectives": [
+        "Use ratios, algebra, mensuration, estimation"
+      ],
+      "sourceRefIds": [
+        "clat-2027-syllabus"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    }
+  ],
+  "publishedAssets": []
+}

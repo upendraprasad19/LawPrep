@@ -1,0 +1,4812 @@
+{
+  "formatVersion": 1,
+  "sourceHash": "7dec12fd788d018298c15e8b5717667f540361680373579782816ab807f882cf",
+  "counts": {
+    "question": 1203,
+    "lesson": 41,
+    "curriculum": 65,
+    "deck": 4,
+    "blueprint": 0
+  },
+  "errors": [
+    "BLUEPRINTS: Unsupported executable or non-literal initializer (ArrowFunction)"
+  ],
+  "rights": "unknown",
+  "publishedRecords": 0,
+  "duplicateIds": [],
+  "duplicateQuestionGroups": [],
+  "missingExplanations": [
+    "q450",
+    "q451",
+    "q537",
+    "q574",
+    "q629",
+    "q630",
+    "q631",
+    "q632",
+    "q633",
+    "q634",
+    "q635",
+    "q636",
+    "q637",
+    "q638",
+    "q639",
+    "q640",
+    "q641",
+    "q642",
+    "q643",
+    "q644",
+    "q645",
+    "q646",
+    "q647",
+    "q648",
+    "q649",
+    "q650",
+    "q651",
+    "q652",
+    "q653",
+    "q654",
+    "q655",
+    "q656",
+    "q657",
+    "q658",
+    "q659",
+    "q660",
+    "q661",
+    "q662",
+    "q663",
+    "q664",
+    "q665",
+    "q666",
+    "q667",
+    "q668",
+    "q669",
+    "q670",
+    "q671",
+    "q672",
+    "q673",
+    "q674",
+    "q675",
+    "q676",
+    "q677",
+    "q678",
+    "q679",
+    "q680",
+    "q681",
+    "q682",
+    "q683",
+    "q684",
+    "q685",
+    "q686",
+    "q687",
+    "q688",
+    "q689",
+    "q690",
+    "q691",
+    "q692",
+    "q693",
+    "q694",
+    "q695",
+    "q696",
+    "q697",
+    "q698",
+    "q699",
+    "q700",
+    "q701",
+    "q702",
+    "q703",
+    "q704",
+    "q705",
+    "q706",
+    "q707",
+    "q708",
+    "q709",
+    "q710",
+    "q711",
+    "q712",
+    "q713",
+    "q714",
+    "q715",
+    "q716",
+    "q717",
+    "q718",
+    "q719",
+    "q720",
+    "q721",
+    "q722",
+    "q723",
+    "q724",
+    "q725",
+    "q726",
+    "q727",
+    "q728",
+    "q729",
+    "q730",
+    "q731",
+    "q732",
+    "q733",
+    "q734",
+    "q735",
+    "q736",
+    "q737",
+    "q738",
+    "q739",
+    "q740",
+    "q741",
+    "q742",
+    "q743",
+    "q744",
+    "q745",
+    "q746",
+    "q747",
+    "q748",
+    "q749",
+    "q750",
+    "q751",
+    "q752",
+    "q753",
+    "q754",
+    "q755",
+    "q756",
+    "q757",
+    "q758",
+    "q759",
+    "q760",
+    "q761",
+    "q762",
+    "q763",
+    "q764",
+    "q765",
+    "q766",
+    "q767",
+    "q768",
+    "q769",
+    "q770",
+    "q771",
+    "q772",
+    "q773",
+    "q774",
+    "q775",
+    "q776",
+    "q777",
+    "q778",
+    "q779",
+    "q780",
+    "q781",
+    "q782",
+    "q783",
+    "q784",
+    "q785",
+    "q786",
+    "q787",
+    "q788",
+    "q789",
+    "q790",
+    "q791",
+    "q792",
+    "q793",
+    "q794",
+    "q795",
+    "q796",
+    "q797",
+    "q798",
+    "q799",
+    "q800",
+    "q801",
+    "q802",
+    "q803",
+    "q804",
+    "q805",
+    "q806",
+    "q807",
+    "q808",
+    "q809",
+    "q810",
+    "q811",
+    "q812",
+    "q813",
+    "q814",
+    "q815",
+    "q816",
+    "q817",
+    "q818",
+    "q819",
+    "q820",
+    "q821",
+    "q822",
+    "q823",
+    "q824",
+    "q825",
+    "q826",
+    "q827",
+    "q828",
+    "q829",
+    "q830",
+    "q831",
+    "q832",
+    "q833",
+    "q834",
+    "q835",
+    "q836",
+    "q837",
+    "q838",
+    "q839",
+    "q840",
+    "q841",
+    "q842",
+    "q843",
+    "q844",
+    "q845",
+    "q846",
+    "q847",
+    "q848",
+    "q849",
+    "q850",
+    "q851",
+    "q852",
+    "q853",
+    "q854",
+    "q855",
+    "q856",
+    "q857",
+    "q858",
+    "q859",
+    "q860",
+    "q861",
+    "q862",
+    "q863",
+    "q864",
+    "q865",
+    "q866",
+    "q867",
+    "q868",
+    "q956",
+    "q957",
+    "q958",
+    "q959",
+    "q960",
+    "q961",
+    "q962",
+    "q963",
+    "q964",
+    "q965",
+    "q966",
+    "q967",
+    "q968",
+    "q969",
+    "q970",
+    "q971",
+    "q972",
+    "q973",
+    "q974",
+    "q975",
+    "q976",
+    "q977",
+    "q978",
+    "q979",
+    "q980",
+    "q981",
+    "q982",
+    "q983",
+    "q984",
+    "q985",
+    "q986",
+    "q987",
+    "q988",
+    "q989",
+    "q990",
+    "q991",
+    "q992",
+    "q993",
+    "q994",
+    "q995",
+    "q996",
+    "q997",
+    "q998",
+    "q999",
+    "q1000",
+    "q1001",
+    "q1002",
+    "q1003",
+    "q1004",
+    "q1005",
+    "q1006",
+    "q1007",
+    "q1008",
+    "q1009",
+    "q1010",
+    "q1011",
+    "q1012",
+    "q1013",
+    "q1014",
+    "q1015",
+    "q1016",
+    "q1017",
+    "q1018",
+    "q1019",
+    "q1020",
+    "q1021",
+    "q1022",
+    "q1023",
+    "q1024",
+    "q1025",
+    "q1026",
+    "q1027",
+    "q1028",
+    "q1029",
+    "q1030",
+    "q1031",
+    "q1032",
+    "q1033",
+    "q1034",
+    "q1035",
+    "q1036",
+    "q1037",
+    "q1038",
+    "q1039",
+    "q1040",
+    "q1041",
+    "q1042",
+    "q1043",
+    "q1044",
+    "q1045",
+    "q1046",
+    "q1047",
+    "q1048",
+    "q1049",
+    "q1050",
+    "q1051",
+    "q1052",
+    "q1053",
+    "q1054",
+    "q1055",
+    "q1056",
+    "q1057",
+    "q1058",
+    "q1059",
+    "q1060",
+    "q1061",
+    "q1062",
+    "q1063",
+    "q1064",
+    "q1065",
+    "q1066",
+    "q1067",
+    "q1068",
+    "q1069",
+    "q1070",
+    "q1071",
+    "q1072",
+    "q1073",
+    "q1074",
+    "q1075",
+    "q1076",
+    "q1077",
+    "q1078",
+    "q1079",
+    "q1080",
+    "q1081",
+    "q1082",
+    "q1083",
+    "q1084",
+    "q1085",
+    "q1086",
+    "q1087",
+    "q1088",
+    "q1089",
+    "q1090",
+    "q1091",
+    "q1092",
+    "q1093",
+    "q1094",
+    "q1095",
+    "q1096",
+    "q1097",
+    "q1098",
+    "q1099",
+    "q1100",
+    "q1101",
+    "q1102",
+    "q1103",
+    "q1104",
+    "q1105",
+    "q1106",
+    "q1107",
+    "q1108",
+    "q1109",
+    "q1110",
+    "q1111",
+    "q1112",
+    "q1113",
+    "q1114",
+    "q1115",
+    "q1116",
+    "q1117",
+    "q1118",
+    "q1119",
+    "q1120",
+    "q1121",
+    "q1122",
+    "q1123",
+    "q1124",
+    "q1125",
+    "q1126",
+    "q1127",
+    "q1128",
+    "q1129",
+    "q1130",
+    "q1131",
+    "q1132",
+    "q1133",
+    "q1134",
+    "q1135",
+    "q1136",
+    "q1137",
+    "q1138",
+    "q1139",
+    "q1140",
+    "q1141",
+    "q1142",
+    "q1143",
+    "q1144",
+    "q1145",
+    "q1146",
+    "q1147",
+    "q1148",
+    "q1149",
+    "q1150",
+    "q1151",
+    "q1152",
+    "q1153",
+    "q1154",
+    "q1155",
+    "q1156",
+    "q1157",
+    "q1158",
+    "q1159",
+    "q1160",
+    "q1161",
+    "q1162",
+    "q1163",
+    "q1164",
+    "q1165",
+    "q1166",
+    "q1167",
+    "q1168",
+    "q1169",
+    "q1170",
+    "q1171",
+    "q1172",
+    "q1173",
+    "q1174",
+    "q1175",
+    "q1176",
+    "q1177",
+    "q1178",
+    "q1179",
+    "q1180",
+    "q1181",
+    "q1182",
+    "q1183",
+    "q1184",
+    "q1185",
+    "q1186",
+    "q1187",
+    "q1188",
+    "q1189",
+    "q1190",
+    "q1191",
+    "q1192",
+    "q1193",
+    "q1194",
+    "q1195",
+    "q1196",
+    "q1197",
+    "q1198",
+    "q1199",
+    "q1200",
+    "q1201",
+    "q1202",
+    "q1203"
+  ],
+  "missingOriginalIds": 41,
+  "originalVerificationFlags": 65,
+  "issues": [
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 449,
+      "originalId": "q450",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 450,
+      "originalId": "q451",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 536,
+      "originalId": "q537",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 573,
+      "originalId": "q574",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 628,
+      "originalId": "q629",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 629,
+      "originalId": "q630",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 630,
+      "originalId": "q631",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 631,
+      "originalId": "q632",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 632,
+      "originalId": "q633",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 633,
+      "originalId": "q634",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 634,
+      "originalId": "q635",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 635,
+      "originalId": "q636",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 636,
+      "originalId": "q637",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 637,
+      "originalId": "q638",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 638,
+      "originalId": "q639",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 639,
+      "originalId": "q640",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 640,
+      "originalId": "q641",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 641,
+      "originalId": "q642",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 642,
+      "originalId": "q643",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 643,
+      "originalId": "q644",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 644,
+      "originalId": "q645",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 645,
+      "originalId": "q646",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 646,
+      "originalId": "q647",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 647,
+      "originalId": "q648",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 648,
+      "originalId": "q649",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 649,
+      "originalId": "q650",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 650,
+      "originalId": "q651",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 651,
+      "originalId": "q652",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 652,
+      "originalId": "q653",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 653,
+      "originalId": "q654",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 654,
+      "originalId": "q655",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 655,
+      "originalId": "q656",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 656,
+      "originalId": "q657",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 657,
+      "originalId": "q658",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 658,
+      "originalId": "q659",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 659,
+      "originalId": "q660",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 660,
+      "originalId": "q661",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 661,
+      "originalId": "q662",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 662,
+      "originalId": "q663",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 663,
+      "originalId": "q664",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 664,
+      "originalId": "q665",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 665,
+      "originalId": "q666",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 666,
+      "originalId": "q667",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 667,
+      "originalId": "q668",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 668,
+      "originalId": "q669",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 669,
+      "originalId": "q670",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 670,
+      "originalId": "q671",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 671,
+      "originalId": "q672",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 672,
+      "originalId": "q673",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 673,
+      "originalId": "q674",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 674,
+      "originalId": "q675",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 675,
+      "originalId": "q676",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 676,
+      "originalId": "q677",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 677,
+      "originalId": "q678",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 678,
+      "originalId": "q679",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 679,
+      "originalId": "q680",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 680,
+      "originalId": "q681",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 681,
+      "originalId": "q682",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 682,
+      "originalId": "q683",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 683,
+      "originalId": "q684",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 684,
+      "originalId": "q685",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 685,
+      "originalId": "q686",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 686,
+      "originalId": "q687",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 687,
+      "originalId": "q688",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 688,
+      "originalId": "q689",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 689,
+      "originalId": "q690",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 690,
+      "originalId": "q691",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 691,
+      "originalId": "q692",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 692,
+      "originalId": "q693",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 693,
+      "originalId": "q694",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 694,
+      "originalId": "q695",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 695,
+      "originalId": "q696",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 696,
+      "originalId": "q697",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 697,
+      "originalId": "q698",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 698,
+      "originalId": "q699",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 699,
+      "originalId": "q700",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 700,
+      "originalId": "q701",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 701,
+      "originalId": "q702",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 702,
+      "originalId": "q703",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 703,
+      "originalId": "q704",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 704,
+      "originalId": "q705",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 705,
+      "originalId": "q706",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 706,
+      "originalId": "q707",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 707,
+      "originalId": "q708",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 708,
+      "originalId": "q709",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 709,
+      "originalId": "q710",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 710,
+      "originalId": "q711",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 711,
+      "originalId": "q712",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 712,
+      "originalId": "q713",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 713,
+      "originalId": "q714",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 714,
+      "originalId": "q715",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 715,
+      "originalId": "q716",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 716,
+      "originalId": "q717",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 717,
+      "originalId": "q718",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 718,
+      "originalId": "q719",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 719,
+      "originalId": "q720",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 720,
+      "originalId": "q721",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 721,
+      "originalId": "q722",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 722,
+      "originalId": "q723",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 723,
+      "originalId": "q724",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 724,
+      "originalId": "q725",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 725,
+      "originalId": "q726",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 726,
+      "originalId": "q727",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 727,
+      "originalId": "q728",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 728,
+      "originalId": "q729",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 729,
+      "originalId": "q730",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 730,
+      "originalId": "q731",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 731,
+      "originalId": "q732",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 732,
+      "originalId": "q733",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 733,
+      "originalId": "q734",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 734,
+      "originalId": "q735",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 735,
+      "originalId": "q736",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 736,
+      "originalId": "q737",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 737,
+      "originalId": "q738",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 738,
+      "originalId": "q739",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 739,
+      "originalId": "q740",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 740,
+      "originalId": "q741",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 741,
+      "originalId": "q742",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 742,
+      "originalId": "q743",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 743,
+      "originalId": "q744",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 744,
+      "originalId": "q745",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 745,
+      "originalId": "q746",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 746,
+      "originalId": "q747",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 747,
+      "originalId": "q748",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 748,
+      "originalId": "q749",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 749,
+      "originalId": "q750",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 750,
+      "originalId": "q751",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 751,
+      "originalId": "q752",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 752,
+      "originalId": "q753",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 753,
+      "originalId": "q754",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 754,
+      "originalId": "q755",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 755,
+      "originalId": "q756",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 756,
+      "originalId": "q757",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 757,
+      "originalId": "q758",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 758,
+      "originalId": "q759",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 759,
+      "originalId": "q760",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 760,
+      "originalId": "q761",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 761,
+      "originalId": "q762",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 762,
+      "originalId": "q763",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 763,
+      "originalId": "q764",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 764,
+      "originalId": "q765",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 765,
+      "originalId": "q766",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 766,
+      "originalId": "q767",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 767,
+      "originalId": "q768",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 768,
+      "originalId": "q769",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 769,
+      "originalId": "q770",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 770,
+      "originalId": "q771",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 771,
+      "originalId": "q772",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 772,
+      "originalId": "q773",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 773,
+      "originalId": "q774",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 774,
+      "originalId": "q775",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 775,
+      "originalId": "q776",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 776,
+      "originalId": "q777",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 777,
+      "originalId": "q778",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 778,
+      "originalId": "q779",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 779,
+      "originalId": "q780",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 780,
+      "originalId": "q781",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 781,
+      "originalId": "q782",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 782,
+      "originalId": "q783",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 783,
+      "originalId": "q784",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 784,
+      "originalId": "q785",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 785,
+      "originalId": "q786",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 786,
+      "originalId": "q787",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 787,
+      "originalId": "q788",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 788,
+      "originalId": "q789",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 789,
+      "originalId": "q790",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 790,
+      "originalId": "q791",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 791,
+      "originalId": "q792",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 792,
+      "originalId": "q793",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 793,
+      "originalId": "q794",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 794,
+      "originalId": "q795",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 795,
+      "originalId": "q796",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 796,
+      "originalId": "q797",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 797,
+      "originalId": "q798",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 798,
+      "originalId": "q799",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 799,
+      "originalId": "q800",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 800,
+      "originalId": "q801",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 801,
+      "originalId": "q802",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 802,
+      "originalId": "q803",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 803,
+      "originalId": "q804",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 804,
+      "originalId": "q805",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 805,
+      "originalId": "q806",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 806,
+      "originalId": "q807",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 807,
+      "originalId": "q808",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 808,
+      "originalId": "q809",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 809,
+      "originalId": "q810",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 810,
+      "originalId": "q811",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 811,
+      "originalId": "q812",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 812,
+      "originalId": "q813",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 813,
+      "originalId": "q814",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 814,
+      "originalId": "q815",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 815,
+      "originalId": "q816",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 816,
+      "originalId": "q817",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 817,
+      "originalId": "q818",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 818,
+      "originalId": "q819",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 819,
+      "originalId": "q820",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 820,
+      "originalId": "q821",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 821,
+      "originalId": "q822",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 822,
+      "originalId": "q823",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 823,
+      "originalId": "q824",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 824,
+      "originalId": "q825",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 825,
+      "originalId": "q826",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 826,
+      "originalId": "q827",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 827,
+      "originalId": "q828",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 828,
+      "originalId": "q829",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 829,
+      "originalId": "q830",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 830,
+      "originalId": "q831",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 831,
+      "originalId": "q832",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 832,
+      "originalId": "q833",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 833,
+      "originalId": "q834",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 834,
+      "originalId": "q835",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 835,
+      "originalId": "q836",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 836,
+      "originalId": "q837",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 837,
+      "originalId": "q838",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 838,
+      "originalId": "q839",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 839,
+      "originalId": "q840",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 840,
+      "originalId": "q841",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 841,
+      "originalId": "q842",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 842,
+      "originalId": "q843",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 843,
+      "originalId": "q844",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 844,
+      "originalId": "q845",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 845,
+      "originalId": "q846",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 846,
+      "originalId": "q847",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 847,
+      "originalId": "q848",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 848,
+      "originalId": "q849",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 849,
+      "originalId": "q850",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 850,
+      "originalId": "q851",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 851,
+      "originalId": "q852",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 852,
+      "originalId": "q853",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 853,
+      "originalId": "q854",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 854,
+      "originalId": "q855",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 855,
+      "originalId": "q856",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 856,
+      "originalId": "q857",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 857,
+      "originalId": "q858",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 858,
+      "originalId": "q859",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 859,
+      "originalId": "q860",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 860,
+      "originalId": "q861",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 861,
+      "originalId": "q862",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 862,
+      "originalId": "q863",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 863,
+      "originalId": "q864",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 864,
+      "originalId": "q865",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 865,
+      "originalId": "q866",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 866,
+      "originalId": "q867",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 867,
+      "originalId": "q868",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 955,
+      "originalId": "q956",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 956,
+      "originalId": "q957",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 957,
+      "originalId": "q958",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 958,
+      "originalId": "q959",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 959,
+      "originalId": "q960",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 960,
+      "originalId": "q961",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 961,
+      "originalId": "q962",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 962,
+      "originalId": "q963",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 963,
+      "originalId": "q964",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 964,
+      "originalId": "q965",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 965,
+      "originalId": "q966",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 966,
+      "originalId": "q967",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 967,
+      "originalId": "q968",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 968,
+      "originalId": "q969",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 969,
+      "originalId": "q970",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 970,
+      "originalId": "q971",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 971,
+      "originalId": "q972",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 972,
+      "originalId": "q973",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 973,
+      "originalId": "q974",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 974,
+      "originalId": "q975",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 975,
+      "originalId": "q976",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 976,
+      "originalId": "q977",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 977,
+      "originalId": "q978",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 978,
+      "originalId": "q979",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 979,
+      "originalId": "q980",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 980,
+      "originalId": "q981",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 981,
+      "originalId": "q982",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 982,
+      "originalId": "q983",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 983,
+      "originalId": "q984",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 984,
+      "originalId": "q985",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 985,
+      "originalId": "q986",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 986,
+      "originalId": "q987",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 987,
+      "originalId": "q988",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 988,
+      "originalId": "q989",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 989,
+      "originalId": "q990",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 990,
+      "originalId": "q991",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 991,
+      "originalId": "q992",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 992,
+      "originalId": "q993",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 993,
+      "originalId": "q994",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 994,
+      "originalId": "q995",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 995,
+      "originalId": "q996",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 996,
+      "originalId": "q997",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 997,
+      "originalId": "q998",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 998,
+      "originalId": "q999",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 999,
+      "originalId": "q1000",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1000,
+      "originalId": "q1001",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1001,
+      "originalId": "q1002",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1002,
+      "originalId": "q1003",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1003,
+      "originalId": "q1004",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1004,
+      "originalId": "q1005",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1005,
+      "originalId": "q1006",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1006,
+      "originalId": "q1007",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1007,
+      "originalId": "q1008",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1008,
+      "originalId": "q1009",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1009,
+      "originalId": "q1010",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1010,
+      "originalId": "q1011",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1011,
+      "originalId": "q1012",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1012,
+      "originalId": "q1013",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1013,
+      "originalId": "q1014",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1014,
+      "originalId": "q1015",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1015,
+      "originalId": "q1016",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1016,
+      "originalId": "q1017",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1017,
+      "originalId": "q1018",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1018,
+      "originalId": "q1019",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1019,
+      "originalId": "q1020",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1020,
+      "originalId": "q1021",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1021,
+      "originalId": "q1022",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1022,
+      "originalId": "q1023",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1023,
+      "originalId": "q1024",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1024,
+      "originalId": "q1025",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1025,
+      "originalId": "q1026",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1026,
+      "originalId": "q1027",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1027,
+      "originalId": "q1028",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1028,
+      "originalId": "q1029",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1029,
+      "originalId": "q1030",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1030,
+      "originalId": "q1031",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1031,
+      "originalId": "q1032",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1032,
+      "originalId": "q1033",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1033,
+      "originalId": "q1034",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1034,
+      "originalId": "q1035",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1035,
+      "originalId": "q1036",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1036,
+      "originalId": "q1037",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1037,
+      "originalId": "q1038",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1038,
+      "originalId": "q1039",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1039,
+      "originalId": "q1040",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1040,
+      "originalId": "q1041",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1041,
+      "originalId": "q1042",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1042,
+      "originalId": "q1043",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1043,
+      "originalId": "q1044",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1044,
+      "originalId": "q1045",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1045,
+      "originalId": "q1046",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1046,
+      "originalId": "q1047",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1047,
+      "originalId": "q1048",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1048,
+      "originalId": "q1049",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1049,
+      "originalId": "q1050",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1050,
+      "originalId": "q1051",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1051,
+      "originalId": "q1052",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1052,
+      "originalId": "q1053",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1053,
+      "originalId": "q1054",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1054,
+      "originalId": "q1055",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1055,
+      "originalId": "q1056",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1056,
+      "originalId": "q1057",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1057,
+      "originalId": "q1058",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1058,
+      "originalId": "q1059",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1059,
+      "originalId": "q1060",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1060,
+      "originalId": "q1061",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1061,
+      "originalId": "q1062",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1062,
+      "originalId": "q1063",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1063,
+      "originalId": "q1064",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1064,
+      "originalId": "q1065",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1065,
+      "originalId": "q1066",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1066,
+      "originalId": "q1067",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1067,
+      "originalId": "q1068",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1068,
+      "originalId": "q1069",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1069,
+      "originalId": "q1070",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1070,
+      "originalId": "q1071",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1071,
+      "originalId": "q1072",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1072,
+      "originalId": "q1073",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1073,
+      "originalId": "q1074",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1074,
+      "originalId": "q1075",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1075,
+      "originalId": "q1076",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1076,
+      "originalId": "q1077",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1077,
+      "originalId": "q1078",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1078,
+      "originalId": "q1079",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1079,
+      "originalId": "q1080",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1080,
+      "originalId": "q1081",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1081,
+      "originalId": "q1082",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1082,
+      "originalId": "q1083",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1083,
+      "originalId": "q1084",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1084,
+      "originalId": "q1085",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1085,
+      "originalId": "q1086",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1086,
+      "originalId": "q1087",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1087,
+      "originalId": "q1088",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1088,
+      "originalId": "q1089",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1089,
+      "originalId": "q1090",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1090,
+      "originalId": "q1091",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1091,
+      "originalId": "q1092",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1092,
+      "originalId": "q1093",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1093,
+      "originalId": "q1094",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1094,
+      "originalId": "q1095",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1095,
+      "originalId": "q1096",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1096,
+      "originalId": "q1097",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1097,
+      "originalId": "q1098",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1098,
+      "originalId": "q1099",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1099,
+      "originalId": "q1100",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1100,
+      "originalId": "q1101",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1101,
+      "originalId": "q1102",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1102,
+      "originalId": "q1103",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1103,
+      "originalId": "q1104",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1104,
+      "originalId": "q1105",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1105,
+      "originalId": "q1106",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1106,
+      "originalId": "q1107",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1107,
+      "originalId": "q1108",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1108,
+      "originalId": "q1109",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1109,
+      "originalId": "q1110",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1110,
+      "originalId": "q1111",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1111,
+      "originalId": "q1112",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1112,
+      "originalId": "q1113",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1113,
+      "originalId": "q1114",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1114,
+      "originalId": "q1115",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1115,
+      "originalId": "q1116",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1116,
+      "originalId": "q1117",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1117,
+      "originalId": "q1118",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1118,
+      "originalId": "q1119",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1119,
+      "originalId": "q1120",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1120,
+      "originalId": "q1121",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1121,
+      "originalId": "q1122",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1122,
+      "originalId": "q1123",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1123,
+      "originalId": "q1124",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1124,
+      "originalId": "q1125",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1125,
+      "originalId": "q1126",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1126,
+      "originalId": "q1127",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1127,
+      "originalId": "q1128",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1128,
+      "originalId": "q1129",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1129,
+      "originalId": "q1130",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1130,
+      "originalId": "q1131",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1131,
+      "originalId": "q1132",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1132,
+      "originalId": "q1133",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1133,
+      "originalId": "q1134",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1134,
+      "originalId": "q1135",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1135,
+      "originalId": "q1136",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1136,
+      "originalId": "q1137",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1137,
+      "originalId": "q1138",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1138,
+      "originalId": "q1139",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1139,
+      "originalId": "q1140",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1140,
+      "originalId": "q1141",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1141,
+      "originalId": "q1142",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1142,
+      "originalId": "q1143",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1143,
+      "originalId": "q1144",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1144,
+      "originalId": "q1145",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1145,
+      "originalId": "q1146",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1146,
+      "originalId": "q1147",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1147,
+      "originalId": "q1148",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1148,
+      "originalId": "q1149",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1149,
+      "originalId": "q1150",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1150,
+      "originalId": "q1151",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1151,
+      "originalId": "q1152",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1152,
+      "originalId": "q1153",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1153,
+      "originalId": "q1154",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1154,
+      "originalId": "q1155",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1155,
+      "originalId": "q1156",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1156,
+      "originalId": "q1157",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1157,
+      "originalId": "q1158",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1158,
+      "originalId": "q1159",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1159,
+      "originalId": "q1160",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1160,
+      "originalId": "q1161",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1161,
+      "originalId": "q1162",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1162,
+      "originalId": "q1163",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1163,
+      "originalId": "q1164",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1164,
+      "originalId": "q1165",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1165,
+      "originalId": "q1166",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1166,
+      "originalId": "q1167",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1167,
+      "originalId": "q1168",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1168,
+      "originalId": "q1169",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1169,
+      "originalId": "q1170",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1170,
+      "originalId": "q1171",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1171,
+      "originalId": "q1172",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1172,
+      "originalId": "q1173",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1173,
+      "originalId": "q1174",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1174,
+      "originalId": "q1175",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1175,
+      "originalId": "q1176",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1176,
+      "originalId": "q1177",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1177,
+      "originalId": "q1178",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1178,
+      "originalId": "q1179",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1179,
+      "originalId": "q1180",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1180,
+      "originalId": "q1181",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1181,
+      "originalId": "q1182",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1182,
+      "originalId": "q1183",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1183,
+      "originalId": "q1184",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1184,
+      "originalId": "q1185",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1185,
+      "originalId": "q1186",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1186,
+      "originalId": "q1187",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1187,
+      "originalId": "q1188",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1188,
+      "originalId": "q1189",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1189,
+      "originalId": "q1190",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1190,
+      "originalId": "q1191",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1191,
+      "originalId": "q1192",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1192,
+      "originalId": "q1193",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1193,
+      "originalId": "q1194",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1194,
+      "originalId": "q1195",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1195,
+      "originalId": "q1196",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1196,
+      "originalId": "q1197",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1197,
+      "originalId": "q1198",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1198,
+      "originalId": "q1199",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1199,
+      "originalId": "q1200",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1200,
+      "originalId": "q1201",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1201,
+      "originalId": "q1202",
+      "issues": [
+        "missing-explanation"
+      ]
+    },
+    {
+      "sourceKey": "BANK.questions",
+      "sourceIndex": 1202,
+      "originalId": "q1203",
+      "issues": [
+        "missing-explanation"
+      ]
+    }
+  ],
+  "unmappedTopics": {
+    "clat|English Language|RC": 14,
+    "clat|English Language|Grammar": 9,
+    "clat|English Language|Vocabulary": 7,
+    "clat|English Language|Sentence Correction": 4,
+    "clat|Legal Reasoning|Natural justice - audi alteram partem": 1,
+    "clat|Legal Reasoning|Natural justice - rule against bias": 1,
+    "clat|Legal Reasoning|Tort - negligence": 2,
+    "clat|Legal Reasoning|Tort - nuisance": 2,
+    "clat|Legal Reasoning|Tort - defamation": 2,
+    "clat|Legal Reasoning|Tort - volenti non fit injuria": 2,
+    "clat|Legal Reasoning|Tort - vicarious liability": 2,
+    "clat|Legal Reasoning|Tort - strict liability": 2,
+    "clat|Legal Reasoning|Contract - offer and invitation to treat": 1,
+    "clat|Legal Reasoning|Contract - acceptance": 1,
+    "clat|Legal Reasoning|Contract - counter-offer": 1,
+    "clat|Legal Reasoning|Contract - consideration": 2,
+    "clat|Legal Reasoning|Contract - coercion": 1,
+    "clat|Legal Reasoning|Contract - undue influence": 1,
+    "clat|Legal Reasoning|Contract - void vs voidable": 1,
+    "clat|Legal Reasoning|Contract - minor's agreement": 2,
+    "clat|Legal Reasoning|Criminal law - mens rea and actus reus": 2,
+    "clat|Legal Reasoning|Criminal law - private defence": 2,
+    "clat|Legal Reasoning|Criminal law - consent": 2,
+    "clat|Legal Reasoning|Criminal law - abetment": 2,
+    "clat|Legal Reasoning|Constitutional application - reasonable classification": 1,
+    "clat|Legal Reasoning|Constitutional application - freedom of speech": 1,
+    "clat|Legal Reasoning|Constitutional application - self-incrimination": 1,
+    "clat|Legal Reasoning|Natural justice - fair hearing": 1,
+    "clat|Legal Reasoning|Natural justice - pecuniary bias": 1,
+    "clat|Legal Reasoning|Tort - negligence and duty of care": 1,
+    "clat|Legal Reasoning|Contract - general offer": 1,
+    "clat|Legal Reasoning|Contract - unlawful object": 1,
+    "clat|Logical Reasoning|Main Conclusion": 3,
+    "clat|Logical Reasoning|Weaken": 6,
+    "clat|Logical Reasoning|Assumption": 2,
+    "clat|Logical Reasoning|Flaw / Objection": 1,
+    "clat|Logical Reasoning|Strengthen": 4,
+    "clat|Logical Reasoning|Role of Statement": 1,
+    "clat|Logical Reasoning|Evaluate": 1,
+    "clat|Logical Reasoning|Necessary Assumption": 4,
+    "clat|Logical Reasoning|Sufficient Assumption": 2,
+    "clat|Logical Reasoning|Must Be True": 4,
+    "clat|Logical Reasoning|Flaw in Reasoning": 6,
+    "clat|Logical Reasoning|Parallel Reasoning": 2,
+    "clat|Logical Reasoning|Parallel Flaw": 1,
+    "clat|Logical Reasoning|Resolve the Paradox": 3,
+    "clat|Logical Reasoning|Main Point": 1,
+    "cuet|Computer Basics|Hardware vs Software": 2,
+    "cuet|Computer Basics|Input vs Output Devices": 2,
+    "cuet|Computer Basics|Memory & Storage Units": 4,
+    "cuet|Computer Basics|RAM vs ROM": 2,
+    "cuet|Computer Basics|Primary vs Secondary Storage": 1,
+    "cuet|Computer Basics|CPU/ALU/CU": 3,
+    "cuet|Computer Basics|MS Office File Extensions": 3,
+    "cuet|Computer Basics|MS Office Shortcuts": 3,
+    "cuet|Computer Basics|MS Excel Basics": 1,
+    "cuet|Computer Basics|Operating Systems": 1,
+    "cuet|Computer Basics|Internet & Networking": 3,
+    "cuet|Computer Basics|Abbreviations & Full Forms": 1,
+    "cuet|Logical Reasoning|number series": 5,
+    "cuet|Logical Reasoning|letter series": 3,
+    "cuet|Logical Reasoning|coding-decoding": 5,
+    "cuet|Logical Reasoning|blood relations": 5,
+    "cuet|Logical Reasoning|direction sense": 4,
+    "cuet|Logical Reasoning|ranking/arrangement": 3,
+    "cuet|Logical Reasoning|syllogisms": 5,
+    "cuet|Logical Reasoning|analogies": 3,
+    "cuet|Logical Reasoning|odd-one-out": 2,
+    "shared|Current Affairs|Polity": 7,
+    "shared|Current Affairs|Judgments": 4,
+    "shared|Current Affairs|International": 3,
+    "shared|Current Affairs|Economy": 4,
+    "shared|Current Affairs|Awards": 8,
+    "shared|Current Affairs|Sports": 2,
+    "shared|Current Affairs|Science": 1,
+    "shared|Current Affairs|Appointments": 3,
+    "clat|Legal GK|Landmark Judgments": 14,
+    "blet|Legal GK|Legal Maxims": 9,
+    "clat|Legal GK|Constitutional Articles": 5,
+    "clat|Legal GK|Writs": 5,
+    "blet|Legal GK|Fundamental Rights vs DPSP": 5,
+    "blet|Legal GK|2023 Criminal Codes": 4,
+    "blet|Legal GK|IPR Basics": 3,
+    "blet|Legal GK|Court Hierarchy & Tenure": 3,
+    "shared|Quantitative|percentages": 3,
+    "shared|Quantitative|profit and loss": 4,
+    "shared|Quantitative|simple interest": 1,
+    "shared|Quantitative|compound interest": 2,
+    "shared|Quantitative|simple vs compound interest": 2,
+    "shared|Quantitative|averages": 3,
+    "shared|Quantitative|ratio and proportion": 4,
+    "shared|Quantitative|time speed distance": 4,
+    "shared|Quantitative|time and work": 3,
+    "shared|Quantitative|LCM and HCF": 3,
+    "shared|Quantitative|simplification BODMAS": 3,
+    "shared|Quantitative|arithmetic progression": 3,
+    "shared|Quantitative|mensuration": 5,
+    "shared|Quantitative|number systems": 2,
+    "shared|Quantitative|data interpretation": 7,
+    "blet|General Knowledge|Indian Polity & Constitution": 13,
+    "blet|General Knowledge|Modern Indian History": 9,
+    "blet|General Knowledge|Indian Geography": 5,
+    "blet|General Knowledge|World Geography": 4,
+    "blet|General Knowledge|International Organisations": 8,
+    "blet|General Knowledge|Historical Wars & Treaties": 5,
+    "blet|General Knowledge|General Science": 4,
+    "blet|General Knowledge|Economy & Banking": 2,
+    "clat|English Language|": 108,
+    "clat|Current Affairs|": 153,
+    "clat|Legal Reasoning|": 173,
+    "clat|Logical Reasoning|": 127,
+    "clat|Quantitative|": 64,
+    "cuet|Quantitative|": 7,
+    "cuet|English Language|": 11,
+    "cuet|Logical Reasoning|": 4,
+    "cuet|Current Affairs|": 19,
+    "cuet|Computer Basics|": 14,
+    "blet|General Knowledge|": 70,
+    "blet|Current Affairs|": 34,
+    "blet|Legal GK|": 45,
+    "blet|Logical Reasoning|": 19,
+    "blet|English Language|": 25,
+    "clat|Legal Reasoning|Method - principle application": 1,
+    "clat|Legal Reasoning|Tort - core principles": 1,
+    "clat|Legal Reasoning|Contract - essentials": 1,
+    "clat|Legal Reasoning|Criminal law - principles": 1,
+    "clat|Legal Reasoning|Natural justice": 1,
+    "clat|Logical Reasoning|Strengthen vs Weaken": 1,
+    "clat|Logical Reasoning|Inference vs Conclusion": 1,
+    "clat|Logical Reasoning|Logical Fallacies": 1,
+    "clat|Logical Reasoning|Passage Strategy": 1,
+    "cuet|Computer Basics|Hardware vs Software & I/O Devices": 1,
+    "cuet|Computer Basics|MS Office Essentials & Shortcuts": 1,
+    "shared|Current Affairs|Exam Strategy": 1,
+    "blet|Legal GK|Basic Structure & Landmark Cases": 1,
+    "blet|Legal GK|Writs": 1,
+    "shared|Quantitative|percentages and profit and loss": 1,
+    "shared|Quantitative|time speed distance and work": 1,
+    "CLAT, BLET|Legal Aptitude|Legal Reasoning Foundations": 1,
+    "CLAT, BLET|Legal Aptitude|Contract Law": 1,
+    "CLAT, BLET|Legal Aptitude|The Constitution": 1,
+    "CLAT, BLET|Legal Aptitude|Law of Torts": 2,
+    "CLAT, BLET|Legal Aptitude|Fundamental Rights": 1,
+    "CLAT, BLET|Legal Aptitude|Directive Principles & Duties": 1,
+    "CLAT, BLET|Legal Aptitude|Criminal Law": 1,
+    "CLAT, BLET|Legal Aptitude|Union & State Government": 1,
+    "CLAT, BLET|Legal Aptitude|Legal Maxims": 1,
+    "CLAT, BLET|Legal Aptitude|Judiciary & Writs": 1,
+    "CLAT, BLET|Legal Aptitude|Indian Legal System": 1,
+    "CLAT, BLET|Legal Aptitude|Amendments, Basic Structure & Emergency": 1,
+    "CLAT, BLET|Legal Aptitude|Family, Personal Law & Constitutional Bodies": 1,
+    "CLAT, BLET|Legal Aptitude|Landmark Judgments": 1,
+    "CLAT, BLET|Legal Aptitude|Intellectual Property Rights": 1,
+    "CLAT, BLET|Legal Aptitude|International Law & Environmental Law": 1,
+    "CLAT, BLET|Legal Aptitude|Jurisprudence & Criminal Procedure": 1,
+    "CLAT, CUET|Logical Reasoning|Critical Reasoning": 4,
+    "CLAT, CUET|Logical Reasoning|Analytical Reasoning": 3,
+    "CUET, CLAT|Logical Reasoning|Statements & Conclusions, Assumptions, Course of Action & Cause-Effect": 1,
+    "CUET, CLAT|Logical Reasoning|Mathematical Operations, Symbols, Data Sufficiency & Non-Verbal Reasoning": 1,
+    "CLAT, CUET, BLET|English|Reading Comprehension": 2,
+    "CLAT, CUET, BLET|English|Vocabulary": 1,
+    "CLAT, CUET, BLET|English|Grammar": 2,
+    "CLAT, CUET, BLET|English|Verbal Ability": 1,
+    "CUET, CLAT, BLET|English|Grammar & Usage": 1,
+    "CLAT, CUET|Quantitative|Number System, LCM & HCF, Simplification": 1,
+    "CLAT, CUET|Quantitative|Percentages": 1,
+    "CLAT, CUET|Quantitative|Profit, Loss & Discount": 1,
+    "CLAT, CUET|Quantitative|Ratio & Proportion": 1,
+    "CLAT, CUET|Quantitative|Averages, Mixtures & Alligation": 1,
+    "CLAT, CUET|Quantitative|Data Interpretation Basics": 1,
+    "CLAT, CUET|Quantitative|Simple Interest & Compound Interest": 1,
+    "CLAT, CUET|Quantitative|Time, Speed & Distance": 1,
+    "CLAT, CUET|Quantitative|Time & Work": 1,
+    "CLAT, CUET|Quantitative|Mensuration": 1,
+    "CLAT, CUET|Quantitative|Permutations, Combinations & Probability": 1,
+    "CLAT, CUET|Quantitative|Number Series & Arithmetic Progression": 1,
+    "CLAT, CUET|Quantitative|Algebra": 1,
+    "CLAT, CUET|Quantitative|Geometry": 1,
+    "CLAT, CUET|Quantitative|Clocks, Calendars, Ages & Partnership": 1,
+    "CLAT, CUET|Quantitative|Sets & Statistics": 1,
+    "CUET|Computer Basics|Computer Fundamentals": 1,
+    "CUET|Computer Basics|Input/Output Devices & Memory": 1,
+    "CUET|Computer Basics|MS Office & Applications": 1,
+    "CUET|Computer Basics|Internet, Networking & Security": 1,
+    "CUET|Computer Basics|Fundamentals of Computers": 1,
+    "BLET, CLAT, CUET|Static GK|Indian Polity": 1,
+    "BLET, CLAT, CUET|Static GK|Modern Indian History": 1,
+    "BLET, CLAT, CUET|Static GK|Geography": 1,
+    "BLET, CLAT, CUET|Static GK|Indian Economy": 1,
+    "BLET, CLAT, CUET|Static GK|General Science": 1,
+    "BLET, CLAT, CUET|Static GK|International Organizations, Awards & Days": 1,
+    "BLET, CUET, CLAT|Static GK|Ancient Indian History": 1,
+    "BLET, CUET, CLAT|Static GK|Medieval Indian History": 1,
+    "BLET, CUET, CLAT|Static GK|Indian Art & Culture": 1,
+    "BLET, CUET, CLAT|Static GK|Sports, Books & Miscellaneous GK": 1,
+    "unassigned|unassigned|unassigned": 4
+  },
+  "pdfs": [
+    {
+      "path": "Past_Papers/CLAT 2025 Question Paper with Answer Key PDF for All Sets_1784466775924.pdf",
+      "bytes": 13454404,
+      "sha256": "f77102f758870a900b4717a6654ad6d6229bb8098a8dff8dfe5aaec0bde96527",
+      "validHeader": true,
+      "rights": "unknown",
+      "authenticity": "unverified",
+      "filenameClaim": "paper-or-key-unverified",
+      "use": "unclassified",
+      "annotation": null
+    },
+    {
+      "path": "Past_Papers/CLAT 2026 Question Paper with Solutions_1784466727587.pdf",
+      "bytes": 15884824,
+      "sha256": "7ec2432cf2f3077c278ef0c13f6833dd8c2f5ec6a41c1297e400d29825595726",
+      "validHeader": true,
+      "rights": "unknown",
+      "authenticity": "unverified",
+      "filenameClaim": "paper-or-key-unverified",
+      "use": "unclassified",
+      "annotation": null
+    },
+    {
+      "path": "Past_Papers/CLAT UG 2022 Question Paper with Answer Key and Detailed Solutions_1784466812252.pdf",
+      "bytes": 13323642,
+      "sha256": "4b9f7bfb971146b88440606b8a9388111bc7a5569e65c989a6352ed5ed940e9a",
+      "validHeader": true,
+      "rights": "unknown",
+      "authenticity": "unverified",
+      "filenameClaim": "paper-or-key-unverified",
+      "use": "unclassified",
+      "annotation": null
+    },
+    {
+      "path": "Past_Papers/CLAT UG 2023 Official Question Paper with Answer Key and Detailed Solutions_1784466805167.pdf",
+      "bytes": 12899694,
+      "sha256": "bce944f1ef2320c5d6a3163cf0fb07e06a8623ea0937e0c3e052677f871a65a4",
+      "validHeader": true,
+      "rights": "unknown",
+      "authenticity": "unverified",
+      "filenameClaim": "paper-or-key-unverified",
+      "use": "unclassified",
+      "annotation": null
+    },
+    {
+      "path": "Past_Papers/CLAT UG 2024 Question Paper & Answer Key (Official)_1784466797849.pdf",
+      "bytes": 2458297,
+      "sha256": "9c125e19a7eead677c90883f62c9872c1e5f4e5f780a1462675039a9bb19fcc2",
+      "validHeader": true,
+      "rights": "unknown",
+      "authenticity": "unverified",
+      "filenameClaim": "paper-or-key-unverified",
+      "use": "unclassified",
+      "annotation": null
+    },
+    {
+      "path": "Past_Papers/CUET LLB 2023 Question Paper_1784466927170.pdf",
+      "bytes": 2937331,
+      "sha256": "762e42b45c73c95097b3a7869bacf2ed5b38389c8a7be600211ec51396ae8d3d",
+      "validHeader": true,
+      "rights": "unknown",
+      "authenticity": "unverified",
+      "filenameClaim": "paper-or-key-unverified",
+      "use": "unclassified",
+      "annotation": null
+    },
+    {
+      "path": "Past_Papers/CUET LLB 2024 Question Paper and Answer Key - COQP 11 (Unofficial)_1784466920964.pdf",
+      "bytes": 1321860,
+      "sha256": "4e49a2f26b31c403ff3f23f1a785a20f6fccd6275a5f7cc434a9333934f84dbe",
+      "validHeader": true,
+      "rights": "unknown",
+      "authenticity": "unverified",
+      "filenameClaim": "unofficial",
+      "use": "unclassified",
+      "annotation": null
+    },
+    {
+      "path": "Past_Papers/CUET LLB Question Paper 2022_1784466934347.pdf",
+      "bytes": 5285576,
+      "sha256": "9866fa7e576e4a33445a4d0f9cab81c43b39731ea0610c3a6ed6e366b9581777",
+      "validHeader": true,
+      "rights": "unknown",
+      "authenticity": "unverified",
+      "filenameClaim": "paper-or-key-unverified",
+      "use": "unclassified",
+      "annotation": null
+    },
+    {
+      "path": "Past_Papers/CUET PG LLB 2025 Memory Based Question Paper with Detailed Solutions_1784466913526.pdf",
+      "bytes": 344705,
+      "sha256": "72cbb5011ced2ac69673c5dfe937377db300419594982832ad116dc618074be3",
+      "validHeader": true,
+      "rights": "unknown",
+      "authenticity": "unverified",
+      "filenameClaim": "memory-based",
+      "use": "unclassified",
+      "annotation": null
+    },
+    {
+      "path": "Past_Papers/PU2024 ans key.pdf",
+      "bytes": 245013,
+      "sha256": "80554568d8ef59013332ae78271022563e0eb1ae695b093a804bad504ce7250f",
+      "validHeader": true,
+      "rights": "unknown",
+      "authenticity": "unverified",
+      "filenameClaim": "paper-or-key-unverified",
+      "use": "analogue-only",
+      "annotation": {
+        "note": "Owner-supplied research classifies these PU papers as Panjab analogues; not authentic Patna BLET material. Individual pairing and rights remain unverified.",
+        "evidencePath": "Past_Papers/DOWNLOAD_CHECKLIST.md"
+      }
+    },
+    {
+      "path": "Past_Papers/PU2024 question.pdf",
+      "bytes": 1908206,
+      "sha256": "549cef2533a9a2de570fecbf7d18492a13b4245a3269ebfac7c03510bcfa1d84",
+      "validHeader": true,
+      "rights": "unknown",
+      "authenticity": "unverified",
+      "filenameClaim": "paper-or-key-unverified",
+      "use": "analogue-only",
+      "annotation": {
+        "note": "Owner-supplied research classifies these PU papers as Panjab analogues; not authentic Patna BLET material. Individual pairing and rights remain unverified.",
+        "evidencePath": "Past_Papers/DOWNLOAD_CHECKLIST.md"
+      }
+    },
+    {
+      "path": "Past_Papers/PU2025 ans key.pdf",
+      "bytes": 28176,
+      "sha256": "c813b47cf304d5eb0b1ffded5437a2269567292aa33cbf39048dff32c41c4cef",
+      "validHeader": true,
+      "rights": "unknown",
+      "authenticity": "unverified",
+      "filenameClaim": "paper-or-key-unverified",
+      "use": "analogue-only",
+      "annotation": {
+        "note": "Owner-supplied research classifies these PU papers as Panjab analogues; not authentic Patna BLET material. Individual pairing and rights remain unverified.",
+        "evidencePath": "Past_Papers/DOWNLOAD_CHECKLIST.md"
+      }
+    },
+    {
+      "path": "Past_Papers/PU2025 question.pdf",
+      "bytes": 1278785,
+      "sha256": "9d03ecb0c48349d9ee38a5c2d4f75b17b427c5f048c54567c7c4e953dc166e8c",
+      "validHeader": true,
+      "rights": "unknown",
+      "authenticity": "unverified",
+      "filenameClaim": "paper-or-key-unverified",
+      "use": "analogue-only",
+      "annotation": {
+        "note": "Owner-supplied research classifies these PU papers as Panjab analogues; not authentic Patna BLET material. Individual pairing and rights remain unverified.",
+        "evidencePath": "Past_Papers/DOWNLOAD_CHECKLIST.md"
+      }
+    }
+  ],
+  "notes": [
+    "All imports remain draft; legacy verification booleans are not editorial approval.",
+    "Topic labels are legacy labels, not verified exam mappings.",
+    "PDF metadata and filenames do not establish authenticity, page count, answer-key correctness or redistribution rights."
+  ]
+}

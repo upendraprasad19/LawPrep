@@ -1,0 +1,19 @@
+{
+  "fingerprint": "da1205fb5b372bc51ebdbb45b2e017c15c46451bc34f95825d046fd78295129c",
+  "scope": "code",
+  "risk": "high",
+  "reviewer": "/root/foundation_plan_review",
+  "verdict": "accepted",
+  "findings": [
+    { "id": "skipped-tests", "severity": "important", "status": "resolved" },
+    { "id": "review-binding", "severity": "important", "status": "resolved" },
+    { "id": "asvs-identifiers", "severity": "important", "status": "resolved" },
+    { "id": "hook-fingerprint", "severity": "important", "status": "resolved" },
+    { "id": "vite-asset-bypass", "severity": "important", "status": "resolved" },
+    { "id": "hash-skip-link", "severity": "minor", "status": "resolved" },
+    { "id": "coverage-ignore", "severity": "important", "status": "resolved" },
+    { "id": "scalar-containers", "severity": "important", "status": "resolved" },
+    { "id": "private-json-import", "severity": "important", "status": "resolved" }
+  ],
+  "evidence": ["docs/engineering/reviews/foundation-review.md", "docs/engineering/reviews/client-review.md", "docs/engineering/reviews/content-inventory-review.md"]
+}

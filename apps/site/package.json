@@ -1,0 +1,16 @@
+{
+  "name": "@lawprep/site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1 --port 3100",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1 --port 43173"
+  },
+  "dependencies": {
+    "@lawprep/contracts": "*",
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  }
+}

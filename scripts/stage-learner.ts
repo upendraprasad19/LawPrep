@@ -1,0 +1,11 @@
+import { access, cp, mkdir, rm } from 'node:fs/promises';
+import { relative, resolve } from 'node:path';
+const root = resolve(process.cwd());
+const source = resolve(root, 'apps/learner/dist');
+const target = resolve(root, 'apps/site/public/study');
+await access(resolve(source, 'index.html'));
+if (relative(root, target).replaceAll('\\', '/') !== 'apps/site/public/study') throw new Error('Refusing to replace assets outside the staging directory');
+await rm(target, { recursive: true, force: true });
+await mkdir(target, { recursive: true });
+await cp(source, target, { recursive: true });
+console.log('Learner assets staged at /study/');

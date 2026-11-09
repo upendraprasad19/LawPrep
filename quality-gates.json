@@ -1,0 +1,18 @@
+{
+  "milestones": ["bootstrap", "client", "data", "learning", "assessment", "ai", "release"],
+  "activeMilestone": "client",
+  "requiredAt": { "process-tests": "bootstrap", "policy": "bootstrap", "review": "bootstrap", "unit": "client", "transport": "client", "typecheck": "client", "lint": "client", "browser-boundary": "client", "build": "client", "client-assets": "client", "browser": "client" },
+  "gates": [
+    { "id": "process-tests", "required": true, "activation": "bootstrap", "command": ["node", "--test", "--test-reporter=tap", "tests/process/verify.test.mjs"], "evidencePattern": "# tests [1-9][0-9]*", "evidenceFormat": "tap" },
+    { "id": "policy", "required": true, "activation": "bootstrap", "command": ["node", "scripts/check-policy.mjs"], "evidencePattern": "Policy map checked" },
+    { "id": "unit", "required": true, "activation": "client", "command": ["node", "node_modules/vitest/vitest.mjs", "run", "--reporter=tap-flat"], "evidenceFormat": "tap-flat" },
+    { "id": "transport", "required": true, "activation": "client", "command": ["node", "node_modules/vitest/vitest.mjs", "run", "--config", "vitest.integration.config.ts", "--reporter=tap-flat"], "evidenceFormat": "tap-flat" },
+    { "id": "typecheck", "required": true, "activation": "client", "command": ["node", "scripts/run-npm.mjs", "typecheck"] },
+    { "id": "lint", "required": true, "activation": "client", "command": ["node", "node_modules/eslint/bin/eslint.js", "."] },
+    { "id": "browser-boundary", "required": true, "activation": "client", "command": ["node", "scripts/check-browser-boundary.ts"], "evidencePattern": "Browser import boundary checked" },
+    { "id": "build", "required": true, "activation": "client", "command": ["node", "scripts/run-npm.mjs", "build"], "evidencePattern": "Route \\(app\\)", "timeoutMs": 180000 },
+    { "id": "client-assets", "required": true, "activation": "client", "command": ["node", "scripts/check-client-assets.ts"], "evidencePattern": "Client asset scan checked [1-9]" },
+    { "id": "browser", "required": true, "activation": "client", "command": ["node", "node_modules/@playwright/test/cli.js", "test", "--reporter=json"], "evidenceFormat": "playwright-json", "timeoutMs": 120000 },
+    { "id": "review", "required": true, "activation": "bootstrap", "acceptanceOnly": true, "command": ["node", "scripts/check-review-record.mjs"], "evidencePattern": "Independent milestone review checked" }
+  ]
+}

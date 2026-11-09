@@ -1,0 +1,553 @@
+{
+  "examId": "cuet-pg-llb",
+  "cycleId": "cuet-pg-2026-reference",
+  "status": "draft",
+  "completePreparation": false,
+  "checkedAt": "2026-10-24T01:38:19Z",
+  "sourceRefs": [
+    {
+      "id": "nta-coqp11-2026",
+      "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2025/12/202512131769837174.pdf",
+      "title": "General Paper COQP11 syllabus",
+      "publisher": "National Testing Agency",
+      "checkedAt": "2026-10-24T01:38:19Z",
+      "rights": "unknown"
+    },
+    {
+      "id": "du-llb-2026-mapping",
+      "url": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2025/12/20251215190434483.pdf",
+      "title": "University of Delhi 2026 programme mapping, page 13",
+      "publisher": "University of Delhi / NTA",
+      "checkedAt": "2026-10-24T01:38:19Z",
+      "rights": "unknown"
+    }
+  ],
+  "policy": "English preparation scope. Grouped topics are editorial, not official weightings. Recheck the next-cycle syllabus and each target institution before publishing an admission guide.",
+  "blockers": [
+    "2027 cycle not verified",
+    "Mappings beyond the checked Delhi University route require institution-specific sources"
+  ],
+  "rows": [
+    {
+      "topicId": "cuet-english-reading",
+      "title": "Reading",
+      "objectives": [
+        "Interpret passages"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-english-editing",
+      "title": "Grammar and editing",
+      "objectives": [
+        "Correct usage"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-english-words",
+      "title": "Vocabulary",
+      "objectives": [
+        "Resolve meanings"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-english-paragraphs",
+      "title": "Paragraphs",
+      "objectives": [
+        "Order and complete"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-awareness-humanities",
+      "title": "Humanities awareness",
+      "objectives": [
+        "Connect culture and history"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-awareness-public",
+      "title": "Public affairs",
+      "objectives": [
+        "Recognize institutions and people"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-awareness-economy",
+      "title": "Economic awareness",
+      "objectives": [
+        "Interpret economic concepts"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-awareness-science",
+      "title": "Science and geography",
+      "objectives": [
+        "Recall essential concepts"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-computer-systems",
+      "title": "Computer systems",
+      "objectives": [
+        "Distinguish hardware and storage"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-computer-office",
+      "title": "Office tools",
+      "objectives": [
+        "Use common operations"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-computer-internet",
+      "title": "Internet and security",
+      "objectives": [
+        "Recognize network concepts"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-aptitude-number",
+      "title": "Numerical aptitude",
+      "objectives": [
+        "Calculate arithmetic relationships"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-aptitude-finance",
+      "title": "Financial arithmetic",
+      "objectives": [
+        "Solve interest and commerce"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-aptitude-work",
+      "title": "Rates and time",
+      "objectives": [
+        "Solve work and motion"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-aptitude-measure",
+      "title": "Measurement",
+      "objectives": [
+        "Calculate geometric quantities"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-aptitude-sets",
+      "title": "Sets and counting",
+      "objectives": [
+        "Apply combinatorial reasoning"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-reasoning-order",
+      "title": "Arrangements",
+      "objectives": [
+        "Resolve ordering constraints"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-reasoning-statements",
+      "title": "Statement reasoning",
+      "objectives": [
+        "Evaluate assumptions and conclusions"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-reasoning-patterns",
+      "title": "Patterns",
+      "objectives": [
+        "Infer coded relationships"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    },
+    {
+      "topicId": "cuet-reasoning-spatial",
+      "title": "Spatial reasoning",
+      "objectives": [
+        "Track directions and relations"
+      ],
+      "sourceRefIds": [
+        "nta-coqp11-2026"
+      ],
+      "sourceStatus": "verified-syllabus",
+      "required": {
+        "teachingUnit": 1,
+        "workedExample": 1,
+        "guidedPracticeSet": 1,
+        "freshPracticeSet": 1,
+        "revisionSet": 1,
+        "assessmentPool": 1
+      },
+      "reviewer": "owner-editor (pending)",
+      "status": "missing",
+      "blockers": [
+        "Map and review legacy candidates",
+        "Approve item counts and distinct question families",
+        "Confirm rights before publication"
+      ]
+    }
+  ],
+  "publishedAssets": []
+}

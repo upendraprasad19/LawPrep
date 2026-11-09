@@ -1,0 +1,33 @@
+# Private legacy intake: development activation
+
+31 October 2026. The owner explicitly approved the database update, rollback-only permission tests and private import. This record supersedes the unapplied status in the historical preparation review. It does not accept complete Tasks 3–4, educational correctness or production release.
+
+## Applied scope
+
+- Dedicated `lawprep-dev`, ref `gacxelyzqoftocfmlisy`, PostgreSQL 17.11.0.003, correct named connection verified before application. Intake relations/RPC absent and exactly one live confirmed approved owner verified before writing.
+- Applied reviewed SQL SHA256 `9DD02494253594C5809B94DE901718F7CCEED0FFCB4E646DC91B80AA3ABAD351`. Provider assigned migration `20261031015636_legacy_intake.sql`; preparation filename `20261030181714` was reconciled to observed history with identical bytes. No history rewrite.
+- Applied exact reviewed setup → chunks 000–032 → seal. A large local SQL transport read was truncated before execution; it was reconstructed from hash-checked segments and resumed without changing SQL or duplicating operations. All 35 reviewed statements succeeded.
+- One complete unknown-rights batch, 1,313 original records: 1,203 questions, 41 lessons, 65 curriculum entries, four decks. All 492 empty explanations and the unsupported BLUEPRINTS error remain explicit. Canonical versions/reviews/catalogue/cycles remain empty; no student material was published. Thirteen PDFs remain separate private asset work.
+- Actual public DB types regenerated from hosted schema; temporary anticipated type bridge removed. This is public schema coverage, not private-schema type completeness.
+
+## Verification
+
+- Initial actual hosted canonical tests: 30 PASS. The deliberately added assertion correctly failed one of 31, and fixtures/users/temp table/test extension rolled back while preserving the real owner.
+- After the real collection was loaded, the original test's default-total-zero assumption failed one of 30. A completed batch should remain visible while a different batch loads. The fixture assertion now requests the explicit loading batch and expects P0002. Corrected canonical tests again passed 30/30 with the negative control rejected. This strengthens testing against a populated database without weakening visibility rules.
+- Independent expected ordinal/hash/UTF-8-length reconciliation returned compared 1,313, exact matches 1,313, mismatches zero. The database recomputes each original JSON hash; its ordered aggregate matches `75615f3b440cae6a8d7c650640b9669f6ac55cb940e45854d873343bec89ccef`. Original source and extracted-file hashes match the reviewed preparation.
+- Exact setup, first data chunk and seal replayed without duplicates. This is **sampled hosted replay**, not all 35 operations rerun; the complete local engine replay and full hosted reconciliation are separate evidence. Post-check: one complete batch, 1,313 records, zero fixture users, no pgTAP, zero public items.
+- Real authenticated owner UI loaded all counts, paged to records 21–40, filtered 65 curriculum entries and opened the original lesson payload. Original HTML remained literal text with zero active script/image/iframe descendants. No credentials, tokens or sign-in links were collected. Screenshot `output/import-intake/library-loaded.jpg`.
+- Six actual HTTP checks passed: anonymous local import read denied/private no-store, unsupported write method rejected, all three public route catalogues exclude unreviewed imports, direct anonymous Data API reader denied.
+- Final `npm run verify` exited 0: all ten installed iteration gates PASS; acceptance-only review NOT_APPLICABLE. Process 19, unit 31, HTTP 16 and built Chromium 18; browser skipped/unexpected/flaky all zero. Compiler, lint, build, graph and emitted assets passed. The first run had only lint blocked by ETIMEDOUT; its original report is preserved as `intake-activation-verify-timeout.log`. A standalone whole-project lint passed unchanged, followed by the successful complete rerun with the same source and gate configuration. No timeout, rule or required check was weakened.
+- Independent reviewer `/root/checklist_review` closed and accepted this scoped activation at fingerprint `67d5e56cb405fb21353482cb2b8abac22c66d6285284f4a8464c9103fe07ba02`, with no required batch fixes remaining. Reviewer independently checked live schema/grants/types/data/digests, canonical adapters/raw results, cleanup, docs, screenshot and final gate evidence. The historical `foundation.json` remains unchanged; this is scoped activation acceptance, not a new whole-product milestone or production acceptance.
+- After final checks, the latest built app was restarted and the real signed-in owner library reloaded successfully at `/study/#/imports`, with all 1,313 records visible. The owner tab is left open for review.
+
+Ignored task evidence: `intake-activation-evidence.json` (raw apply/test/cleanup/load/reconciliation/replay results), `intake-reconciliation.sql`, `intake-hosted-{main,negative}.sql`, `intake-http-evidence.json`, `intake-activation-types.log` and final activation verification log. Raw record bodies/prepared SQL remain ignored and absent from public assets.
+
+## Advisor triage and remaining boundaries
+
+Current security advisor reports eleven informational [private RLS/no-policy notices](https://supabase.com/docs/guides/database/database-linter?lint=0008_rls_enabled_no_policy), including intake tables: intentionally no application relation grants/default denial with the narrow checked reader. It also reports an actual [leaked-password-protection warning](https://supabase.com/docs/guides/auth/password-security#password-strength-and-leaked-password-protection). This batch did not change Auth password settings; email-link UI alone does not waive the provider warning. Track provider/Auth hardening before production, without claiming an all-clear audit.
+
+Performance advisor reports four [foreign-key index notices](https://supabase.com/docs/guides/database/database-linter?lint=0001_unindexed_foreign_keys), including `import_batches.imported_by`, and two unused-index informational notices. Measure realistic workloads before indexing or removing anything; the current imported-by lookup has one batch. No new performance/recovery/availability claim follows from the load.
+
+The scoped typed boundaries, immutable intake and private owner read have local plus actual hosted evidence. Real multi-account/revocation/Storage/concurrency, clean Supabase replay, canonical content promotion, source/rights/correctness and production operations remain pending. No commit, push, public deployment, charge or native build.
